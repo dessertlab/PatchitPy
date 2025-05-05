@@ -10,12 +10,14 @@ This repository contains the code for implementing the patching tool used as VS 
 - The `img` folder contains the pictures included in this guide. 
 
 
+
+## 🛠Setup
+
+
 > **🚨 Prerequisites:** 
 > - Please run on a Linux OS or macOS. For Windows users, you can utilize the [Windows Subsystem for Linux](https://learn.microsoft.com/it-it/windows/wsl/install) (WSL); in this case, please ensure to have the WSL installed before proceeding.
 > - Please ensure that Python 3.8 (or later versions) is installed. For Windows users, ensure to have Python installed in WSL.
 
-
-## 🛠Setup
 
 ### For Linux OS 🐧 or Windows Users 🪟(WSL):
 
