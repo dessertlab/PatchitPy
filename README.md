@@ -6,7 +6,7 @@ This repository contains the code for implementing the patching tool used as VS 
 ## Folder organization
 - The `extension_PatchitPy` folder contains the code of the tool.
 - The `code_test` folder includes some code samples to quickly test the extension
-- The `generated_code` folder contains the code generated for the analysis conducted in the related paper. 
+- The `generated_code.zip` folder contains the code generated for the analysis conducted in the related paper. 
 - The `img` folder contains the pictures included in this guide. 
 
 
