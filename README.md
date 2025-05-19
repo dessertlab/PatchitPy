@@ -2,6 +2,8 @@
 
 This repository contains the code for implementing the patching tool used as VS Code extension proposed in the paper titled *Securing AI Code Generation Through Automated Pattern-Based Patching* accepted at the **8th Dependable and Secure Machine Learning (DSML 2025) workshop**, co-located with the **55th Annual IEEE/IFIP DSN 2025**. This repo is a guide for configuring the Visual Studio Code extension to run the tool locally in debug mode. The extension detect and patch software vulnerabilities for Python.
 
+The repo also contains the appendix of the paper (file Appendix.pdf).
+
 
 ## Folder organization
 - The `extension_PatchitPy` folder contains the code of the tool.
