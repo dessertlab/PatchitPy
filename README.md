@@ -121,7 +121,7 @@ View the full license here: [https://creativecommons.org/licenses/by-nc-sa/4.0/]
 
 ## Citation
 
-If you use DeVAIC in academic context, please cite it as follows:
+If you use PatchitPy in academic context, please cite it as follows:
 
 ```bibtex
 @INPROCEEDINGS{11071611,
