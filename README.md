@@ -93,14 +93,44 @@ sudo npm install --global yo generator-code
 > **🚨 Warning:** 
 > If you open a directory where the path contains spaces, the extension may not work correctly.
 
-## ⚡Let's start
-Use the code in `code_test` to test the plugin. Enjoy it!😎
+## ⚡Test the tool
+Use the code in `code_test` folder to test the plugin. Enjoy it!😎
 
-
-> #### **🚨 In case you have problem of /bin/bash: bad interpreter:**
-> In the **main** folder, and launch this script to ensure that the `.sh` files are in the correct format:
+## 🐍 Troubleshooting
+> #### **🚨 Problem: `/bin/bash: bad interpreter`**
+> In the **main** folder, run the following script to fix `.sh` file format issues:
 > ```python
 >  python convert_to_LF.sh
 >  ```
-> Then, open again the `extension_PatchitPy` directory in VS Code, and follow the same steps listed above 😎.
+> Then, open again the `extension_PatchitPy` folder in VS Code, and follow the same steps listed above 😎.
 
+
+## 📄 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License.  
+
+You are free to **share** and **adapt** the material under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+View the full license here: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+## Citation
+
+If you use DeVAIC in academic context, please cite it as follows:
+
+```bibtex
+@INPROCEEDINGS{11071611,
+  author={Altiero, Francesco and Cotroneo, Domenico and De Luca, Roberta and Liguori, Pietro},
+  booktitle={2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W)}, 
+  title={Securing AI Code Generation Through Automated Pattern-Based Patching}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={282-289},
+  keywords={Codes;Accuracy;Static analysis;Maintenance engineering;Generators;Complexity theory;Security;Artificial intelligence;Python;Software development management;Vulnerability Patching;Static Analysis;Vulnerability Detection;AI -generated Code},
+  doi={10.1109/DSN-W65791.2025.00077}}
